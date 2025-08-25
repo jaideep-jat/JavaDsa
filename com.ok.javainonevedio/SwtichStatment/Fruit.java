@@ -16,10 +16,11 @@ public class Fruit {
                  System.out.println("good for weight gain");
                  break;
             case "kiwi":
-            System.out.println("doof for health ");
+                 System.out.println("doof for health ");
                  break;
-                 case "apple":
+            case "apple":
                  System.out.println("one apple a day keeps a dr away ");
+                 break;
             default:
             System.out.println("please enter the valid fruite");
 
