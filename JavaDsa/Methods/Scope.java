@@ -19,7 +19,6 @@ public class Scope {
    
 // scoping in for loop
   for(int i=1; i<=4; i++){
-    i=2;
     System.out.println(i);
   }
   

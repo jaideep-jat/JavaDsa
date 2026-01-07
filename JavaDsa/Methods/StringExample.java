@@ -1,4 +1,5 @@
 package Methods;
+//string example
 
 public class StringExample {
     // public static void main(String[] args) {
@@ -19,3 +20,4 @@ public class StringExample {
         return greeting;
     }
 }
+
