@@ -1,5 +1,5 @@
 package Array;
-
+// 2nd largest in the arraygit 
 public class Maximum {
     public static void main(String[] args) {
   
